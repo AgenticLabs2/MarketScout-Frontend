@@ -13,25 +13,25 @@ MarketScout is the frontend for an agentic market-research workflow. It coordina
 
 A focused authentication experience that establishes the product's editorial, research-oriented visual language from the first interaction.
 
-![MarketScout login](Asset/New folder/Screenshot 2026-10-06 205959.png)
+![MarketScout login](Asset/image/login.png)
 
 ### Research workspace
 
 The main research room lets users start a research brief with a company and an optional focus area, while keeping previous reports accessible in the same workspace.
 
-![MarketScout research dashboard](Asset/New folder/Screenshot 2026-10-06 210041.png)
+![MarketScout research dashboard](Asset/image/dashboard.png)
 
 ### Human-in-the-loop domain selection
 
 When the research agents identify promising directions, the pipeline can pause and request a strategic choice from the user. Ranked options expose the score and rationale before the run continues.
 
-![MarketScout human review modal](Asset/New folder/Screenshot 2026-10-06 210110.png)
+![MarketScout human review modal](Asset/image/humanFeedback.png)
 
 ### Completed research run
 
 Once the selected direction has been investigated, the workspace presents the completed pipeline and makes the resulting report directly accessible.
 
-![MarketScout completed research](Asset/New folder/Screenshot 2026-10-06 210133.png)
+![MarketScout completed research](Asset/image/final.png)
 
 ---
 
